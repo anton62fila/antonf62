@@ -1,5 +1,13 @@
+/**
+ * Java1.HW3
+ * @ author Anton Filatov
+ * @ version 23.12.2021
+ */
+
 package lesson3;
+
 import java.util.Arrays;
+
 public class HW3 {
     public static void main(String[] args) {
         int[] arr = {1, 1, 0, 0, 1, 0, 1, 1, 0, 0};
